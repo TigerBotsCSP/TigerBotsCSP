@@ -1,4 +1,7 @@
 ### Hi there 👋
+Welcome to team 9072's GitHub page, where we spark the inferno of FRC ingenuity and brilliance.
+<br>
+We're cooking up some plans for the summer. Check it out [here](https://docs.google.com/presentation/d/1_NDs2iMMh4tCKB-eJmeETjdQMC0rlVVOm6oUDuJoKgs/edit?usp=sharing).
 
 <!--
 **TigerBotsCSP/TigerBotsCSP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
