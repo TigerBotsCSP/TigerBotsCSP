@@ -1,7 +1,8 @@
-### Hi there 👋
-Welcome to Team 9072's GitHub page, where we spark the inferno of FRC ingenuity and brilliance.
+### ssh 🤫
+shhh
 <br>
-We're cooking up some plans for the summer. Check it out [here](https://docs.google.com/presentation/d/1_NDs2iMMh4tCKB-eJmeETjdQMC0rlVVOm6oUDuJoKgs/edit?usp=sharing).
+shh
+(https://docs.google.com/presentation/d/1_NDs2iMMh4tCKB-eJmeETjdQMC0rlVVOm6oUDuJoKgs/edit?usp=sharing).
 <br>
 <br>
 [![Nyahiito!](https://github-readme-stats.vercel.app/api/pin/?username=tigerbotscsp&repo=nyahiito&theme=chartreuse-dark)](https://github.com/tigerbotscsp/nyahiito)
