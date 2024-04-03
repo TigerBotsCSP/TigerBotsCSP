@@ -1,5 +1,5 @@
-### ssh 🤫
-[shhhh](https://www.youtube.com/results?q=how+to+take+a+shower)
+### 
+[Sonic is ready for CHCMP!](https://www.youtube.com/results?q=how+to+take+a+shower)
 <br>
 <br>
 [![Swerve2024!](https://github-readme-stats.vercel.app/api/pin/?username=team9072&repo=swerve2024&theme=chartreuse-dark)](https://github.com/team9072/swerve2024)
