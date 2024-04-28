@@ -1,5 +1,6 @@
-### 
-[Sonic is ready for CHCMP!](https://github.com/team9072)
+###
+# FRC Team 9072 TigerBots
+[⭐ Sonic dominated the Hopper Division during the FIRST 2024 Championship! Click here (or the card below) to check out the code. ⭐](https://github.com/team9072/Swerve2024)
 <br>
 <br>
 [![Swerve2024!](https://github-readme-stats.vercel.app/api/pin/?username=team9072&repo=swerve2024&theme=chartreuse-dark)](https://github.com/team9072/swerve2024)
